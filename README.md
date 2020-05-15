@@ -36,9 +36,7 @@ HIDPI|成功
 睡眠|未成功
 HDMI|未成功
 
-```
-//说明一下，键盘成功驱动但键位不对，懒得折腾了直接用Karabiner-Elements软件来填补缺点，大家可以试一下。没有办法睡眠，电源电量显示是没有问题的，AirDrop和HandOff都是没有问题的，还有用AppleWatch解锁也是没有问题的。
-```
+> 说明一下，键盘成功驱动但键位不对，懒得折腾了直接用Karabiner-Elements软件来填补缺点，大家可以试一下。没有办法睡眠，电源电量显示是没有问题的，AirDrop和HandOff都是没有问题的，还有用AppleWatch解锁也是没有问题的。
 ## 关于EFI
 本EFI是双系统的EFI，Macintosh+Archlinux。EFI大小是512MB。
 本EFI是基于macos.10.14.6的Clover的，亲测macos10.15版本开机关机缓慢，总是出现机械硬盘关在不上的问题，所以一直停留在macos10.14.6。
