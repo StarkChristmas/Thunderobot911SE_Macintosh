@@ -2,7 +2,7 @@
 ![](IMG/screen.png)
 ## 结构
 ```
-EFI
+Mojave10.14_EFI
 ├── APPLE
 │   ├── EXTENSIONS
 │   └── FIRMWARE
@@ -20,6 +20,27 @@ EFI
     └── grubx64.efi
 
 11 directories, 4 files
+
+Catalina10.15_EFI
+├── BOOT
+│   └── BOOTX64.efi
+├── CLOVER
+│   ├── ACPI
+│   ├── CLOVERX64.efi
+│   ├── config.plist
+│   ├── doc
+│   ├── drivers64UEFI
+│   ├── kexts
+│   ├── misc
+│   ├── OEM
+│   ├── ROM
+│   ├── themes
+│   └── tools
+└── grub
+    └── grubx64.efi
+
+12 directories, 4 files
+
 ```
 ## 各驱动完善情况
 驱动名称|完善程度
